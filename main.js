@@ -21,3 +21,6 @@ console.log(Number(i) + Number(g)); // NaN - явное приведение
 String(123); // ‘123’
 Number('3'); // 3
 Boolean(1); // true
+String(123); // ‘123’
+String(123); // ‘123’
+String(123); // ‘123’
